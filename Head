@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#Using the head command in bash
+
+#Created Scripts.txt
+
+$ vim Scripts.txt
+
+$ head Scripts.txt
+
+$ head -n 1 Scripts.txt
+
+$ head -n 2 Scripts.txt
+
+$ head -c 1 Scripts.txt
+
+$ head -c 2 Scripts.txt
+
+Done
+
+
